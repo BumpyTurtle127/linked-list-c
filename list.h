@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------------------------------------
 //
 //                                 Linked List by Arnav Revankar
-//                                  Last Modified: May 8th 2024
+//                                  Last Modified: May 12th 2024
 //
 //                      Available at github.com/BumpyTurtle127/linked-list-c
 //
